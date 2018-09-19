@@ -51,10 +51,11 @@ nslog(@"我是代码");
 | Content Cell | Content Cell  | Content Cell |
 
 * 方式三
-| First Header | Second Header | Third Header |
-| :----------- | :-----------: | ------------:|
-| Left         | Center        | Right        |
-| Left         | Center        | Right        |
+
+First Header | Second Header | Third Header 
+:----------- | :-----------: | ------------:
+Left         | Center        | Right        
+Left         | Center        | Right        
  
 ## 脚注
 * 点我有脚注哦[^1]
