@@ -38,7 +38,7 @@ nslog(@"我是代码");
 ## 表格
 * 方式一
 
- First Header | Secend Header | Third Header
+ First Header | Second Header | Third Header
  ------------ | ------------- | ------------
  Content Cell | Content Cell  | Content Cell
  Content Cell | Content Cell  | Content Cell
